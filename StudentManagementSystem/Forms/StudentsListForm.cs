@@ -30,7 +30,7 @@ namespace StudentManagementSystem.Forms
             Text = "Students";
             StartPosition = FormStartPosition.CenterParent;
             ClientSize = new Size(800, 450);
-            BackColor = Color.White;
+            BackColor = Color.Gray;
 
             grid = new DataGridView
             {
